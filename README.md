@@ -1,6 +1,3 @@
-<img src="./img/web_blockchain.png" width="100%" height="auto"></img>
-
-
 ### Hello there
 My name is Seto Korekiyo, I'm a Japan web and blockchain developer.
 I started as a web developer back in 2014 when I graduated at universtiy of Tokushima.
