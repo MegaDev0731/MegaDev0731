@@ -1,3 +1,4 @@
+<img align="center" alt="GIF" src="./programmer.gif" width="100%" />
 ### Hello there
 My name is Seto Korekiyo, I'm a Japan web and blockchain developer.
 I started as a web developer back in 2014 when I graduated at universtiy of Tokushima.
